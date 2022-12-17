@@ -1,0 +1,13 @@
+@media (max-width: 575.98px) {
+    .form {
+        margin: 1rem !important;
+    }
+
+    .imp-button {
+        margin-bottom: 1rem !important;
+    }
+
+    /* .hero-header {
+        background-position: top !important;
+    } */
+}
